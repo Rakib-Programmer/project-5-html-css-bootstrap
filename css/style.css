@@ -226,6 +226,7 @@ color: #9A9EA7;
 .section4{
     margin-top: 100px;
     margin-bottom: 100px;
+    overflow: hidden;
 }
 
 .findCar {
